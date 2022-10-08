@@ -1,0 +1,104 @@
+.first-nav
+{
+  background-color: rgb(241, 240, 240);
+  margin-top: -5%;
+  padding:0.7%
+  
+
+}
+
+
+
+
+.second-nav{
+
+  margin-top: 21px;
+
+}
+
+.logo {
+
+  position: absolute;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.first,
+.second {
+  font-size: 40px;
+  font-weight: bolder;
+  padding: 0px 5px
+}
+
+.first {
+  background-color: black;
+  color: rgb(255, 215, 0);
+  padding: 0px 5px
+}
+
+.second {
+  background-color: rgb(255, 215, 0);
+  color: black;
+  margin-left: -4px;
+
+}
+
+.search-bar {
+  margin-left: 550px;
+  margin-top: 30px;
+  position: absolute;
+  border: solid rgba(163, 155, 155, 0.048) 1px;
+
+
+}
+
+.search-bar input {
+
+  width: 450px;
+  height: 35px;
+  border: solid rgba(163, 155, 155, 0.404) 1px;
+
+}
+
+.search-button {
+
+  width: 35px;
+  height: 35px;
+  margin-left: 1001px;
+  margin-top: 31px;
+  background-color: white;
+  padding: 0%;
+  border: solid rgba(163, 155, 155, 0.404) 1px;
+  border-left: 0;
+}
+
+
+
+.icon {
+  color: rgb(255, 215, 0);
+  ;
+  margin-left: 1009px;
+  margin-top: -27px;
+}
+
+.icon path {
+  stroke: rgb(255, 215, 0);
+  stroke-width: 1px;
+
+}
+
+.customer-service {
+  color: rgb(189, 175, 158);
+  margin-left: 1200px;
+  margin-top: -38px;
+  font-size: 20px;
+}
+
+.tel {
+
+  color: black;
+  font-weight: bolder;
+  font-size: 20px;
+  position: absolute;
+  margin-left: 10px;
+}
